@@ -1,0 +1,17 @@
+body
+{
+  background-position: center;
+  background-size: cover;
+}
+
+.heading
+{
+  position: top;
+  width: 100%;
+  text-align: center;
+}
+
+p{
+  color: red;
+  font-size: 23px;
+}
